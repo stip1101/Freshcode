@@ -1,0 +1,29 @@
+body { background-image: url(../images/back.png) ;
+    background-size: auto !important;
+    background-repeat: repeat;  
+      }
+      .centered {
+        margin-left: 810px !important; 
+      }
+h1,h2 {color: aliceblue;}
+p {color: aliceblue;
+        font-size: large;
+    font-style: italic;}
+q {color: aliceblue; font-style: italic;}
+nav {
+    display: inline-block;
+    white-space: nowrap;
+  }
+nav a { color:aliceblue;
+    display: inline-block;
+    padding: 0 10px;
+    margin-left: 10px;}
+.biography{text-align: center;}
+.London{ text-align: center;}
+.quit{text-align: center;}
+.creation{text-align: center;}
+.life{text-align: center;}
+.hobby{text-align: center;}
+.img1{margin-left: 450px;}
+.address{color: rgb(188, 233, 10);}
+.lin{color: bisque;}
