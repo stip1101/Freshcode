@@ -1,0 +1,3 @@
+[alias]
+lp = log --pretty=format:'%h - %an, %cd : %s'
+
