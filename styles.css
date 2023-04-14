@@ -1,0 +1,35 @@
+nav {
+  display: flex;
+  justify-content: center;
+}
+nav p, nav a {
+  display: inline; 
+  margin-right: 10px;
+}
+nav a {
+  text-decoration: none; 
+  color: #000; 
+}
+nav a:hover {
+  color: #f00; }
+  h1, h2 { text-align: center;}
+span {
+  color: blue;
+font-size: 1.5em;
+}
+p {
+  margin-left: 20px;
+}
+h2::before {
+  content: "\1F332";
+}
+html {
+
+background-image: radial-gradient(circle, #ffffff, #555555);
+}
+footer {
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  margin-right: 10px;
+}
