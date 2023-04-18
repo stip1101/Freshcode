@@ -38,11 +38,10 @@ article h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
-    align-items: center;
-    content: "\1F3DE";    
+    align-items: center; 
 }
 article h2::before {
-    content: "\1F3DE";
+    content: "\1F43B";
 }
 article p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
